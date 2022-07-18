@@ -6,7 +6,7 @@ import { Container, Title } from './styles';
 export default function Dashboard() {
     return (
         <Container>
-            <Title>Senhor</Title>
+            <Title>Dashboard</Title>
         </Container>
     );
 }
