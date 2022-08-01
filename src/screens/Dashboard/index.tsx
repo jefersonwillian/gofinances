@@ -17,6 +17,7 @@ export default function Dashboard() {
                             <UserName>Jeferson</UserName>
                         </User>
                     </UserInfo>
+                    
                 </UserWrapper>
             </Header>
         </Container>
